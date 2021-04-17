@@ -10,6 +10,7 @@ public class Lesson {
             x = x + 1;
         }
 
+        System.out.println("строка для push");
         System.out.println("После окончания цикла");
     }
 
